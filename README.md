@@ -1,2 +1,2 @@
 # simple-flask
-A simple flask project
+A simple flask project to run on cloud run
